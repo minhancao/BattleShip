@@ -1,0 +1,2 @@
+-Because the enemy grid's background is red, we made the "miss" color to be yellow.
+-Click on the first box of the ship to change its orientation
